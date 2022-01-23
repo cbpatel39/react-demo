@@ -1,0 +1,517 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/AdobeFnt22.lst
+FileLength:13253
+FileModTime:653951568
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:651762994
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Bold
+FamilyName:Raleway
+StyleName:Bold
+MenuName:Raleway
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Raleway Bold
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Raleway-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:176280
+FileModTime:436814820
+NameArray:0,Mac,18,Raleway Bold
+NameArray:0,Mac,4,Raleway Bold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Italic
+FamilyName:Raleway
+StyleName:Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Raleway Italic
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Raleway-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:144500
+FileModTime:436814884
+NameArray:0,Mac,18,Raleway Italic
+NameArray:0,Mac,4,Raleway Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Light
+FamilyName:Raleway
+StyleName:Light
+MenuName:Raleway
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Raleway Light
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Raleway-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:180680
+FileModTime:436814814
+NameArray:0,Mac,18,Raleway Light
+NameArray:0,Mac,4,Raleway Light
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-LightItalic
+FamilyName:Raleway
+StyleName:Light Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Raleway Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Raleway-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:146512
+FileModTime:436814884
+NameArray:0,Mac,18,Raleway Light Italic
+NameArray:0,Mac,4,Raleway Light Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Medium
+FamilyName:Raleway
+StyleName:Medium
+MenuName:Raleway
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Raleway Medium
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Raleway-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178116
+FileModTime:436814814
+NameArray:0,Mac,18,Raleway Medium
+NameArray:0,Mac,4,Raleway Medium
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Regular
+FamilyName:Raleway
+StyleName:Regular
+MenuName:Raleway
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Raleway Regular
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Raleway-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:176188
+FileModTime:436814820
+NameArray:0,Mac,18,Raleway Regular
+NameArray:0,Mac,4,Raleway Regular
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-SemiBold
+FamilyName:Raleway
+StyleName:SemiBold
+MenuName:Raleway
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Raleway SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Raleway-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:177968
+FileModTime:436814816
+NameArray:0,Mac,18,Raleway SemiBold
+NameArray:0,Mac,4,Raleway SemiBold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Black
+FamilyName:Avenir
+StyleName:Black
+MenuName:Avenir Black
+StyleBits:2
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Avenir Black
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:704
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Black
+NameArray:0,Mac,4,Avenir Black
+NameArray:0,Win,1,Avenir Black
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BlackOblique
+FamilyName:Avenir
+StyleName:Black Oblique
+MenuName:Avenir Black Oblique
+StyleBits:3
+WeightClass:800
+WidthClass:5
+AngleClass:1
+FullName:Avenir Black Oblique
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:1004
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Black Oblique
+NameArray:0,Mac,4,Avenir Black Oblique
+NameArray:0,Win,1,Avenir Black Oblique
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Book
+FamilyName:Avenir
+StyleName:Book
+MenuName:Avenir Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Book
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:72
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Book
+NameArray:0,Mac,4,Avenir Book
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BookOblique
+FamilyName:Avenir
+StyleName:Book Oblique
+MenuName:Avenir Book
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Book Oblique
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:388
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Book Oblique
+NameArray:0,Mac,4,Avenir Book Oblique
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Heavy
+FamilyName:Avenir
+StyleName:Heavy
+MenuName:Avenir Heavy
+StyleBits:2
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Avenir Heavy
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:1304
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Heavy
+NameArray:0,Mac,4,Avenir Heavy
+NameArray:0,Win,1,Avenir Heavy
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-HeavyOblique
+FamilyName:Avenir
+StyleName:Heavy Oblique
+MenuName:Avenir Heavy
+StyleBits:3
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Avenir Heavy Oblique
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:1588
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Heavy Oblique
+NameArray:0,Mac,4,Avenir Heavy Oblique
+NameArray:0,Win,1,Avenir Heavy
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Light
+FamilyName:Avenir
+StyleName:Light
+MenuName:Avenir Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Avenir Light
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:1904
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Light
+NameArray:0,Mac,4,Avenir Light
+NameArray:0,Win,1,Avenir Light
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-LightOblique
+FamilyName:Avenir
+StyleName:Light Oblique
+MenuName:Avenir Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Avenir Light Oblique
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:2220
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Light Oblique
+NameArray:0,Mac,4,Avenir Light Oblique
+NameArray:0,Win,1,Avenir Light
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Medium
+FamilyName:Avenir
+StyleName:Medium
+MenuName:Avenir Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Avenir Medium
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:2536
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Medium
+NameArray:0,Mac,4,Avenir Medium
+NameArray:0,Win,1,Avenir Medium
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-MediumOblique
+FamilyName:Avenir
+StyleName:Medium Oblique
+MenuName:Avenir Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Avenir Medium Oblique
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:2836
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Medium Oblique
+NameArray:0,Mac,4,Avenir Medium Oblique
+NameArray:0,Win,1,Avenir Medium
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Oblique
+FamilyName:Avenir
+StyleName:Oblique
+MenuName:Avenir
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Oblique
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:3152
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Oblique
+NameArray:0,Mac,4,Avenir Oblique
+NameArray:0,Win,1,Avenir
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Roman
+FamilyName:Avenir
+StyleName:Roman
+MenuName:Avenir
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Roman
+WritingScript:Roman
+OutlineFileName:/Users/wendyemery/Documents/AA New Folder With Items/LANDING PAGE Project/Landing Page Files for DEV Team/Hommati Landing Page DEV Team Folder/Document fonts/Avenir.ttc
+TTCOffset:3468
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:653951564
+NameArray:0,Mac,18,Avenir Roman
+NameArray:0,Mac,4,Avenir Roman
+NameArray:0,Win,1,Avenir
+NameArray:0,Win,16,Avenir
+%EndFont
+
