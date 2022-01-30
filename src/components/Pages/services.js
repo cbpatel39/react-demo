@@ -5,10 +5,10 @@ const Contact = () => {
 return (
 	<HelmetProvider>
 		<Helmet>
-        	<title>Hommati - Contact Us</title>
+        	<title>Hommati - Our Services</title>
         	<meta name="description" content="Hommati" />
       	</Helmet>
-		<h1>Mail us on feedback@geeksforgeeks.org</h1>
+		<h1>Services</h1>
 	</HelmetProvider>
 );
 };

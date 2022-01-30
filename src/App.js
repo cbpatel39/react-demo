@@ -13,6 +13,8 @@ import Home from './components/Pages';
 import About from './components/Pages/about';
 import SignUp from './components/Pages/signup';
 import Contact from './components/Pages/contact';
+import Services from './components/Pages/services';
+
 
 function App() {
 return (
@@ -21,6 +23,7 @@ return (
 		<Routes>
 			<Route exact path='/' exact element={<Home />} />
 			<Route path='/about' element={<About/>} />
+			<Route path='/services' element={<Services/>} />
 			<Route path='/contact' element={<Contact/>} />
 			<Route path='/sign-up' element={<SignUp/>} />
 		</Routes>

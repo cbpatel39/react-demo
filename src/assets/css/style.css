@@ -149,7 +149,7 @@ ul {
     height: 100%;
     padding: 40px 0 0 180px;
     transform: translate(-50%, -50%) scale(1);
-    background: url(../images/t6vmPXwQ.jpeg);
+    background: url(/public/images/t6vmPXwQ.jpeg);
     background-size: cover;
 }
 .franchise_video_content img {
@@ -795,7 +795,7 @@ ul {
     box-shadow: none;
 }
 .franchise_faq_area .accordion-button::after {
-    background-image: url(../images/faq_arrow.png);
+    background-image: url(/public/images/faq_arrow.png);
     height: 1rem;
     background-size: 1rem;
     top: 3px;
@@ -812,7 +812,7 @@ ul {
     -moz-transition: all 0.7s ease-in-out;
     -ms-transition: all 0.7s ease-in-out;
     transition: all 0.7s ease-in-out;
-    background-image: url(../images/faq_arrow.png);
+    background-image: url(/public/images/faq_arrow.png);
 }
 .franchise_faq_area .accordion-button:not(.collapsed) {
     color: #000;
@@ -903,7 +903,7 @@ ul {
     padding: 10px 25px 6px;
 }
 .request_info_modal .select-css {
-  background-image: url('../images/faq_arrow.png');
+  background-image: url('/public/images/faq_arrow.png');
   background-repeat: no-repeat, repeat;
   background-position: right .7em top 40%, 0 0;
   background-size: 16px auto, 100%;
